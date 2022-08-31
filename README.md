@@ -59,13 +59,7 @@ Moses Nwaeze: MosesNwaeze
 Emilia: emmydame
 Samuel Adranyi: sadranyi
 
-## Acknowledgements
 
-Did you use someone else’s code?
-Do you want to thank someone explicitly?
-Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
-
-It's powerful to always give credit.
 
 ## LICENSE
 
